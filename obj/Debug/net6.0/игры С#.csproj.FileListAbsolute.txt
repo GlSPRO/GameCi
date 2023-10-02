@@ -1,0 +1,14 @@
+D:\C#\игры С#\bin\Debug\net6.0\игры С#.exe
+D:\C#\игры С#\bin\Debug\net6.0\игры С#.deps.json
+D:\C#\игры С#\bin\Debug\net6.0\игры С#.runtimeconfig.json
+D:\C#\игры С#\bin\Debug\net6.0\игры С#.dll
+D:\C#\игры С#\bin\Debug\net6.0\игры С#.pdb
+D:\C#\игры С#\obj\Debug\net6.0\игры С#.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\игры С#\obj\Debug\net6.0\игры С#.AssemblyInfoInputs.cache
+D:\C#\игры С#\obj\Debug\net6.0\игры С#.AssemblyInfo.cs
+D:\C#\игры С#\obj\Debug\net6.0\игры С#.csproj.CoreCompileInputs.cache
+D:\C#\игры С#\obj\Debug\net6.0\игры С#.dll
+D:\C#\игры С#\obj\Debug\net6.0\refint\игры С#.dll
+D:\C#\игры С#\obj\Debug\net6.0\игры С#.pdb
+D:\C#\игры С#\obj\Debug\net6.0\игры С#.genruntimeconfig.cache
+D:\C#\игры С#\obj\Debug\net6.0\ref\игры С#.dll
